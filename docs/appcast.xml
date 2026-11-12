@@ -6,6 +6,17 @@
         <description>Updates for The Author’s Ledger Report Downloader for macOS.</description>
         <language>en</language>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 12 Nov 2026 12:03:00 -0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- The downloader stays in the menu bar with its Dock icon hidden by default. Open the gear menu and select **Show in Dock** to show the icon.
+- Barnes & Noble Press setup explains the macOS Keychain request before opening the included Chromium browser. Choose **Skip Barnes & Noble** to leave those downloads off. You can set them up later. Google Chrome isn’t required.
+]]></description>
+            <enclosure url="https://github.com/cybercrs/authors-ledger-report-downloader-downloads/releases/download/v1.0.1/ReportDownloader-1.0.1-3.zip" length="276282283" type="application/octet-stream" sparkle:edSignature="hGX2SwZgeYg6KYQQwWrLS2V1wzKML/MP7KJa34r/9a6OXGvzUp6fiVdMIm5ze9HD+6Wc/STopeI2yY49C1u2DQ=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Thu, 12 Nov 2026 07:58:48 -0500</pubDate>
             <sparkle:version>2</sparkle:version>
