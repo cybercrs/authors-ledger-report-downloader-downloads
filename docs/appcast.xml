@@ -6,6 +6,16 @@
         <description>Updates for The Author’s Ledger Report Downloader for macOS.</description>
         <language>en</language>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Thu, 12 Nov 2026 16:56:36 -0500</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[The Report Downloader now appears in the macOS Apps list. It still starts in the menu bar with the Dock icon hidden. To show the Dock icon, open the gear menu and select **Show in Dock**.
+]]></description>
+            <enclosure url="https://github.com/cybercrs/authors-ledger-report-downloader-downloads/releases/download/v1.0.2/ReportDownloader-1.0.2-4.zip" length="276282219" type="application/octet-stream" sparkle:edSignature="ERRfMPkWUCCaKoA+jSIq0iUO2YEZK4WHZrc5TqpSX9NIuw+jBgN0vvoQpcrNg/RKkB/sTpeenGKHPAO1YqW9Cw=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Thu, 12 Nov 2026 12:03:00 -0500</pubDate>
             <sparkle:version>3</sparkle:version>
