@@ -6,6 +6,20 @@
         <description>Updates for The Author’s Ledger Report Downloader for macOS.</description>
         <language>en</language>
         <item>
+            <title>1.0.10</title>
+            <pubDate>Fri, 13 Nov 2026 14:01:30 -0500</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Fixed a Barnes & Noble Press issue that could delay report downloads when the report page switched between views.
+
+For a new install, open the DMG and drag the app to Applications. Requires macOS 15 or later on Apple silicon or Intel.
+
+To update an installed copy, choose **Updates… → Check for Updates…** from the downloader’s menu bar icon.
+]]></description>
+            <enclosure url="https://github.com/cybercrs/authors-ledger-report-downloader-downloads/releases/download/v1.0.10/ReportDownloader-1.0.10-12.zip" length="276622037" type="application/octet-stream" sparkle:edSignature="d3GqsXd/juc3wk0BImTUgPe4yl7xilzX4YPeGNHAKllXPG2SKYwHkJCfiV3qsZtQKXk21F6nDQieKOQQD4GZBw=="/>
+        </item>
+        <item>
             <title>1.0.9</title>
             <pubDate>Fri, 13 Nov 2026 13:30:24 -0500</pubDate>
             <sparkle:version>11</sparkle:version>
