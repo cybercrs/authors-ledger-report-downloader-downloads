@@ -6,6 +6,16 @@
         <description>Updates for The Author’s Ledger Report Downloader for macOS.</description>
         <language>en</language>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Thu, 12 Nov 2026 20:00:22 -0500</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Fixed an issue where **Install and Relaunch** could stall while the downloader was turned on. The app now stops starting new reports and restarts automatically when active report work clears.
+]]></description>
+            <enclosure url="https://github.com/cybercrs/authors-ledger-report-downloader-downloads/releases/download/v1.0.3/ReportDownloader-1.0.3-5.zip" length="276282123" type="application/octet-stream" sparkle:edSignature="49PKo7/9WXorQwaAYc31FKAIr4NzdKfkwPmvJ6Lgq6Af3kHNGNgzvxLAcIwN+Fzyy+xUWSphR8r96dV35nvsCw=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Thu, 12 Nov 2026 16:56:36 -0500</pubDate>
             <sparkle:version>4</sparkle:version>
