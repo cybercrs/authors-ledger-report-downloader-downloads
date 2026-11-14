@@ -6,6 +6,20 @@
         <description>Updates for The Author’s Ledger Report Downloader for macOS.</description>
         <language>en</language>
         <item>
+            <title>1.0.12</title>
+            <pubDate>Fri, 13 Nov 2026 22:05:50 -0500</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[The downloader can now open automatically when you sign in to your Mac. To enable it, click the downloader’s menu bar icon, open the gear menu, and select **Open at Login**.
+
+For a new install, open the DMG and drag the app to Applications. Requires macOS 15 or later on Apple silicon or Intel.
+
+To update an installed copy, choose **Updates… → Check for Updates…** from the downloader’s menu bar icon.
+]]></description>
+            <enclosure url="https://github.com/cybercrs/authors-ledger-report-downloader-downloads/releases/download/v1.0.12/ReportDownloader-1.0.12-14.zip" length="276184554" type="application/octet-stream" sparkle:edSignature="3e1w46bFlDh1VaQyeqVwVeueFj2c8EYlw7El3O8S7BIQnU/V8IOwlFLH+ISC3GE3Bw5JGtPvT+uDC7rp/cJRCg=="/>
+        </item>
+        <item>
             <title>1.0.11</title>
             <pubDate>Fri, 13 Nov 2026 19:56:12 -0500</pubDate>
             <sparkle:version>13</sparkle:version>
